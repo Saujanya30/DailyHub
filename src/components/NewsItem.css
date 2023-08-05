@@ -1,0 +1,12 @@
+.card-body{
+    background-image: linear-gradient(rgb(182, 182, 182), rgb(255, 249, 249),  grey);
+    /* height: 22rem; */
+}
+.card-body a{
+    border: 2px solid black;
+    background-color : rgb(37, 35, 182);
+}
+.card-body a:hover{
+    border: 2px solid black;
+    background-color: rgb(67, 35, 182);
+}
